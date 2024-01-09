@@ -38,3 +38,35 @@
 16:44:41.701 [main] INFO  api.tests.UserTests1 - ******************* Update Test user using put API call ************************
 16:44:41.703 [main] INFO  api.tests.UserTests1 - ******************* Delete Test user using get API call ************************
 16:44:42.817 [main] INFO  api.tests.UserTests1 - ******************* Delete Test user is successful ************************
+20:58:09.575 [main] INFO  api.tests.UserTests - ******************* Creating Test user using post API call ************************
+20:58:12.565 [main] INFO  api.tests.UserTests - ******************* Test user Created using post API call ************************
+20:58:12.582 [main] INFO  api.tests.UserTests - ******************* Read Test user using get API call ************************
+20:58:13.722 [main] INFO  api.tests.UserTests - ******************* Read Test user is successful ************************
+20:58:13.724 [main] INFO  api.tests.UserTests - ******************* updating Test user using put API call ************************
+20:58:16.049 [main] INFO  api.tests.UserTests - ******************* Update Test user using put API call ************************
+20:58:16.051 [main] INFO  api.tests.UserTests - ******************* Delete Test user using get API call ************************
+20:58:17.140 [main] INFO  api.tests.UserTests - ******************* Delete Test user is successful ************************
+20:58:25.145 [main] INFO  api.tests.UserTests1 - ******************* Creating Test user using post API call ************************
+20:58:26.291 [main] INFO  api.tests.UserTests1 - ******************* Test user Created using post API call ************************
+20:58:26.296 [main] INFO  api.tests.UserTests1 - ******************* Read Test user using get API call ************************
+20:58:27.428 [main] INFO  api.tests.UserTests1 - ******************* Read Test user is successful ************************
+20:58:27.431 [main] INFO  api.tests.UserTests1 - ******************* updating Test user using put API call ************************
+20:58:29.841 [main] INFO  api.tests.UserTests1 - ******************* Update Test user using put API call ************************
+20:58:29.844 [main] INFO  api.tests.UserTests1 - ******************* Delete Test user using get API call ************************
+20:58:31.165 [main] INFO  api.tests.UserTests1 - ******************* Delete Test user is successful ************************
+21:01:49.894 [main] INFO  api.tests.UserTests - ******************* Creating Test user using post API call ************************
+21:01:58.283 [main] INFO  api.tests.UserTests - ******************* Test user Created using post API call ************************
+21:01:58.304 [main] INFO  api.tests.UserTests - ******************* Read Test user using get API call ************************
+21:01:59.640 [main] INFO  api.tests.UserTests - ******************* Read Test user is successful ************************
+21:01:59.644 [main] INFO  api.tests.UserTests - ******************* updating Test user using put API call ************************
+21:02:02.116 [main] INFO  api.tests.UserTests - ******************* Update Test user using put API call ************************
+21:02:02.120 [main] INFO  api.tests.UserTests - ******************* Delete Test user using get API call ************************
+21:02:03.341 [main] INFO  api.tests.UserTests - ******************* Delete Test user is successful ************************
+21:02:12.108 [main] INFO  api.tests.UserTests1 - ******************* Creating Test user using post API call ************************
+21:02:13.243 [main] INFO  api.tests.UserTests1 - ******************* Test user Created using post API call ************************
+21:02:13.247 [main] INFO  api.tests.UserTests1 - ******************* Read Test user using get API call ************************
+21:02:14.374 [main] INFO  api.tests.UserTests1 - ******************* Read Test user is successful ************************
+21:02:14.379 [main] INFO  api.tests.UserTests1 - ******************* updating Test user using put API call ************************
+21:02:16.658 [main] INFO  api.tests.UserTests1 - ******************* Update Test user using put API call ************************
+21:02:16.662 [main] INFO  api.tests.UserTests1 - ******************* Delete Test user using get API call ************************
+21:02:17.829 [main] INFO  api.tests.UserTests1 - ******************* Delete Test user is successful ************************
