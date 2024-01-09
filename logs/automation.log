@@ -1,0 +1,8 @@
+16:02:35.914 [main] INFO  api.tests.UserTests - ******************* Creating Test user using post API call ************************
+16:02:38.992 [main] INFO  api.tests.UserTests - ******************* Test user Created using post API call ************************
+16:02:39.014 [main] INFO  api.tests.UserTests - ******************* Read Test user using get API call ************************
+16:02:40.292 [main] INFO  api.tests.UserTests - ******************* Read Test user is successful ************************
+16:02:40.295 [main] INFO  api.tests.UserTests - ******************* updating Test user using put API call ************************
+16:02:42.935 [main] INFO  api.tests.UserTests - ******************* Update Test user using put API call ************************
+16:02:42.937 [main] INFO  api.tests.UserTests - ******************* Delete Test user using get API call ************************
+16:02:44.213 [main] INFO  api.tests.UserTests - ******************* Delete Test user is successful ************************
