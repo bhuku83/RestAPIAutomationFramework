@@ -10,6 +10,7 @@
         <classes>
             <class name="api.tests.UserTests"/>
             <class name="api.tests.testDataProvider"/>
+            <class name="api.tests.UserTests1"/>
         </classes>
     </test> <!-- PetTests -->
 </suite> <!-- PetSuite -->
